@@ -1,0 +1,29 @@
+<html>
+
+    <body>
+       
+<center>
+     <caption><B>PROGRAMMING LANGUAGES</B></caption> <table border="2">
+   
+    <tr>
+        <th>HTML</th>
+        <td> Refer W3 Schools</td>
+       <td> <a href="https://www.w3schools.com/"><img src="./Html.jpg" height="150" width="150">  </a>" </td> 
+    </tr>
+    <tr>
+        <th>JAVA</th>
+        <td>Go to Javatpoint</td>
+        <td> <a href= "https://www.javatpoint.com/"><img src="./java.jpg" height="150" width="150"> </a> </td>
+    </tr>
+    <tr>
+        <th>PYTHON</th>
+        <td>Visit Udemy</td> 
+        <td> <a href="https://www.udemy.com/"><img src="./python.jpg" height="150" width="150"> </a> </td>
+    </tr>
+    </table>
+</center>
+
+    </body>
+
+
+</html>
